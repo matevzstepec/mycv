@@ -1,0 +1,44 @@
+.me {
+  margin: 20px;
+  width: 200px;
+  border-radius: 100%
+}
+
+.hr {
+  color: black;
+  border: 2px solid black
+}
+
+p {
+  font-size: 20px;
+}
+
+.footer {
+  background-color:black;
+  margin: 0px;
+  text-align: center;
+  color: white
+}
+
+.fab {
+  color: white;
+  font-size: 30px
+}
+
+.far {
+  color: black;
+  font-size: 30px
+}
+ h1 {
+   font-size: 40px
+ }
+
+ a {
+   color: black;
+   text-decoration: none;
+ }
+
+.fas {
+  font-size: 30px;
+  color: black
+}
